@@ -5,6 +5,7 @@ Please have a look at the [Haml Coffee Changelog](https://github.com/netzpirat/h
 ## Master
 
 - Update to Haml-Coffee 1.13.6
+- Add Sprockets 3.5 compatibility
 
 ## 1.16.0 - December 3, 2013
 
